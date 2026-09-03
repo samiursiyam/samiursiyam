@@ -2,16 +2,16 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Siyam Rahman**
+# 👋 Hi, I'm **Samiur Rahman Siyam**
 
 ### 💻 Frontend Developer | JavaScript Enthusiast
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/samiursiyam">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <a href="https://github.com/samiursiyam">
+    <img src="https://komarev.com/ghpvc/?username=samiursiyam&style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rsiyam548@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
