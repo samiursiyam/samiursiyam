@@ -6,14 +6,14 @@
 
 ### 💻 Frontend Developer | JavaScript Enthusiast
 
-<p>
+<!-- <p>
   <a href="https://github.com/samiursiyam">
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/samiursiyam">
     <img src="https://komarev.com/ghpvc/?username=samiursiyam&style=for-the-badge&color=blue" />
   </a>
-</p>
+</p> -->
 
 </div>
 
